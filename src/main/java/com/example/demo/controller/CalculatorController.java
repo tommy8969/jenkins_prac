@@ -23,7 +23,7 @@ public class CalculatorController {
 
     @GetMapping("/health")
     public String healthCheck() {
-        return "I'm alive!!123 nice weather! 내가 이겨따!!!";
+        return "I'm alive!!123 nice weather! 내가 이겨따!!! No Korean?";
     }
 
 //    @GetMapping("/plus")
